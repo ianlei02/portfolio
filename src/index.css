@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --color-cyber-blue: #00c8ff;
+  --color-cyber-purple: #9a5cff;
+  --font-mono: "JetBrains Mono", monospace;
+}
